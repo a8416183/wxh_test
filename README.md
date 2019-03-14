@@ -1,4 +1,4 @@
 # wxh_test
 测试工程
 123
-[image](https://github.com/a8416183/wxh_test/1.png)
+![Image text](https://raw.githubusercontent.com/a8416183/wxh_test/master/1.png)
